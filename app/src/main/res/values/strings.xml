@@ -1,0 +1,13 @@
+<resources>
+
+
+    <string name="app_name">PracticaCalificada01</string>
+    <string name="txtNotas">Cálculo de Notas</string>
+    <string name="txtEP">Examen Parcial</string>
+    <string name="txtEF">Examen Final</string>
+    <string name="txtPEP">Promedio de evaluación permanente</string>
+
+
+
+
+</resources>
